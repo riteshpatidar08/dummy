@@ -1,6 +1,7 @@
 console.log('version3');
 console.log('hello from variable file')
 console.log('hello from variable file 2')
+console.log('hello from variable file 2')
 
 // 
 // git init for initialize empty folder
